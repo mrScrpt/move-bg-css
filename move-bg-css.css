@@ -9,8 +9,8 @@ body,html{
 	height: 100%;
 	background: url('bg__desert.jpg') bottom left repeat-x;
 	width: 6116px;
-	animation: bg 120s;
-	
+	animation: bg 120s linear infinite;
+
 }
 
 @keyframes bg {
